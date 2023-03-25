@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo1", "ejemplo1\ejemplo1.csproj", "{94390F1C-905A-4B7C-924B-54620B5D1101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo2", "ejemplo2\ejemplo2.csproj", "{3FF19CE2-C11D-4E46-813A-DAADBBE995FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo3", "ejemplo3\ejemplo3.csproj", "{7537D1D4-F802-4942-84B1-9CF71AF69545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94390F1C-905A-4B7C-924B-54620B5D1101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94390F1C-905A-4B7C-924B-54620B5D1101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94390F1C-905A-4B7C-924B-54620B5D1101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94390F1C-905A-4B7C-924B-54620B5D1101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF19CE2-C11D-4E46-813A-DAADBBE995FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF19CE2-C11D-4E46-813A-DAADBBE995FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF19CE2-C11D-4E46-813A-DAADBBE995FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF19CE2-C11D-4E46-813A-DAADBBE995FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7537D1D4-F802-4942-84B1-9CF71AF69545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7537D1D4-F802-4942-84B1-9CF71AF69545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7537D1D4-F802-4942-84B1-9CF71AF69545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7537D1D4-F802-4942-84B1-9CF71AF69545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B7D3A2-09D5-4273-B658-7486FF10D0E8}
+	EndGlobalSection
+EndGlobal
